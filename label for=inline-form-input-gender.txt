@@ -1,2 +1,0 @@
-<label for="inline-form-input-gender" style="padding-right: 15px;">кошка
-</label>
